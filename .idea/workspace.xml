@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec64baba-6259-4d07-8893-12fc9cb2130e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T4TTGhj5c2IuxwVkpLQ2S2hsEc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="119" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="497" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/memorygame" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aryan\coding\CodingProjects\src\ui\images" />
+      <recent name="C:\Users\aryan\coding\CodingProjects\src\ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aryan\coding\CodingProjects\src\memorygame" />
+      <recent name="C:\Users\aryan\coding\CodingProjects\src\Backup" />
+      <recent name="C:\Users\aryan\coding\CodingProjects\src\ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="AdditionFractions" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionFractions" />
+      <module name="CodingProjects" />
+      <option name="PROGRAM_PARAMETERS" value="7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdditionGuass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionGuass" />
+      <module name="CodingProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Calculator" />
+      <module name="CodingProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Isosceles" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Isosceles" />
+      <module name="CodingProjects" />
+      <option name="PROGRAM_PARAMETERS" value="42069" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable2" />
+      <module name="CodingProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTableFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTableFor" />
+      <module name="CodingProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sketcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sketcher" />
+      <module name="CodingProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Isosceles" />
+      <item itemvalue="Application.AdditionFractions" />
+      <item itemvalue="Application.AdditionGuass" />
+      <item itemvalue="Application.MultiplicationTable2" />
+      <item itemvalue="Application.MultiplicationTableFor" />
+      <item itemvalue="Application.Sketcher" />
+      <item itemvalue="Application.Calculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Sketcher" />
+        <item itemvalue="Application.MultiplicationTableFor" />
+        <item itemvalue="Application.MultiplicationTable2" />
+        <item itemvalue="Application.AdditionGuass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec64baba-6259-4d07-8893-12fc9cb2130e" name="Default Changelist" comment="" />
+      <created>1572718375061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572718375061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="91" width="1254" height="939" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594846113019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="91" width="1254" height="939" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594846113019" />
+    <state x="957" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1591470314208">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="957" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1591470314208" />
+    <state x="795" y="206" key="FileChooserDialogImpl" timestamp="1594839370524">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="795" y="206" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594839370524" />
+    <state width="2483" height="276" key="GridCell.Tab.0.bottom" timestamp="1599322827727">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1843" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596940250249" />
+    <state width="2483" height="276" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599322827727" />
+    <state width="2483" height="276" key="GridCell.Tab.0.center" timestamp="1599322827727">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1843" height="182" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596940250249" />
+    <state width="2483" height="276" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599322827727" />
+    <state width="2483" height="276" key="GridCell.Tab.0.left" timestamp="1599322827726">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1843" height="182" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596940250249" />
+    <state width="2483" height="276" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599322827726" />
+    <state width="2483" height="276" key="GridCell.Tab.0.right" timestamp="1599322827727">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1843" height="182" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596940250249" />
+    <state width="2483" height="276" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599322827727" />
+    <state x="936" y="511" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1599321186398">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="936" y="511" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599321186398" />
+    <state x="718" y="302" width="1177" height="1130" key="search.everywhere.popup" timestamp="1591469295605">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="718" y="302" width="1177" height="1130" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1591469295605" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/memorygame/MemoryGame.java</url>
+          <line>98</line>
+          <properties class="memorygame.MemoryGame" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Teaching/TeachingScanner.java</url>
+          <line>4</line>
+          <properties class="Teaching.TeachingScanner" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodingProjects$AIGuessNumber.ic" NAME="AIGuessNumber Coverage Results" MODIFIED="1574535913406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CodingProjects$Factor.ic" NAME="Factor Coverage Results" MODIFIED="1594845792588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CodingProjects$Sketcher.ic" NAME="Sketcher Coverage Results" MODIFIED="1587235843129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CodingProjects$HollowIsoscelesTriangleFor.ic" NAME="HollowIsoscelesTriangleFor Coverage Results" MODIFIED="1574540781442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
