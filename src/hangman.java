@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 
-public class hangingman{
+public class hangman{
 
 
     static String word = "";
